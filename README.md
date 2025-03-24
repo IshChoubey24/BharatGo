@@ -1,10 +1,12 @@
 # BharatGo - E-Commerce Platform
 
+Project Link- [https://bharat-go-jade.vercel.app]
+
 # Installation
 
 1. Clone the repository:
 ```bash
-git clone  git@github.com:IshChoubey24/BharatGo.git
+git clone git@github.com:IshChoubey24/BharatGo.git
 cd bharatgo
 ```
 
@@ -20,7 +22,9 @@ npm run dev
 
 4. Open in your browser.
 
+
 ## Contact
 
 Your Name - [https://github.com/IshChoubey24]
-Project Link: [https://github.com/IshChoubey24/BharatGo.git]
+Project Link- [https://bharat-go-jade.vercel.app]
+Github Link- [git@github.com:IshChoubey24/BharatGo.git]
